@@ -7,9 +7,13 @@
 # 文件介绍
 
 main.py 是训练文件的程序的入口，注释什么的应该都比较完备。
+
 Datasetutils.py 是dataset，词典等相关设置
+
 mymodel.py 是网络模型的文件
+
 train.py 是训练函数的文件
+
 predict.py 是简单的写的评估模型的代码
 
 # 依赖相关
